@@ -13,7 +13,7 @@ crypto_mapping = {"Bitcoin": "BTC-USD", "Ethereum": "ETH-USD", "DogeCoin":"DOGE-
 
 # This is the title of the plot
 st.title("Crypto Tracker")
-crypto_option = st.sidebar.selectbox("About which Cryptocurrency do you want to visualize and see the plot?", ("Bitcoin", "Ethereum","Dogecoin"))
+crypto_option = st.sidebar.selectbox("About which Cryptocurrency do you want to visualize and see the plot?", ("Bitcoin", "Ethereum","DogeCoin"))
 
 # We will be specifying the start and the end date
 start_date = st.sidebar.date_input("Start Date", date.today() - relativedelta(months=1))
