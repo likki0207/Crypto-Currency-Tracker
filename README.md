@@ -48,5 +48,5 @@ OHLCV is an aggregated form of market data standing for Open, High, Low, Close a
 
 ### Volume: Quantity of asset bought or sold, displayed in base currency.
  
-
-# 
+# How to run the program?
+run the command "python app.py" and select the parameters for which you want to see the plot.
