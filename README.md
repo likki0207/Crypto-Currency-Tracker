@@ -1,6 +1,12 @@
 # Crypto-Currency-Tracker
 This Application can be used to track Cryptocurrencies such as BitCoin, ethereum, Dogecoin
 
+# How to run the web application?
+Select the parameters and then select the "generate" option. Now you will be able to see the plot between the value selector and (End time-Start time)
+
+# Live link of the project:
+https://share.streamlit.io/likki0207/crypto-currency-tracker/main/app.py#crypto-tracker
+
 # What is cryptocurrency?
 A cryptocurrency, crypto-currency, or crypto is a collection of binary data which is designed to work as a medium of exchange wherein individual coin ownership records are stored in a ledger which is a computerized database using strong cryptography to secure transaction records, to control the creation of additional coins, and to verify the transfer of coin ownership. Some crypto schemes use validators to maintain the cryptocurrency. In a proof-of-stake model, owners put up their tokens as collateral. In return, they get authority over the token in proportion to the amount they stake.
 
