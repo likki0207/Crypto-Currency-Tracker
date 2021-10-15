@@ -31,6 +31,8 @@ Tether was the first cryptocurrency marketed as a “stablecoin” — a breed o
 
 Dogecoin is widely known as the first joke cryptocurrency; it was launched in 2013 as a way to poke fun at Bitcoin. Nonetheless, the currency captured people’s attention and a fair amount of investment.
 
+# Flowchart of the project:
+
 # About the Project
 This Project is able to track the information about the 3 different types of bitcoin based on the parameters provided, like, start date, end date, type of crypto, data interval and value selector.
 
