@@ -33,14 +33,20 @@ Dogecoin is widely known as the first joke cryptocurrency; it was launched in 20
 
 # About the Project
 This Project is able to track the information about the 3 different types of bitcoin based on the parameters provided, like, start date, end date, type of crypto, data interval and value selector.
-## OHLCV is an aggregated form of market data standing for Open, High, Low, Close and Volume. OHLCV data includes 5 data points: the Open and Close represent the first and the last price level during a specified interval. High and Low represent the highest and lowest reached price during that interval. Volume is the total amount traded during that period. This data is most frequently represented in a candlestick chart, which allows traders to perform technical analysis on intraday values. We provide OHLCV data in granularities ranging from 1 second to 1 day. 
 
-## Timestamp:Epoch timestamp in milliseconds
-## Open: Opening price of the time interval in quote currency (For BTC/USD, the price would be USD).
-## High:	Highest price reached during time interval, in quote currency.
-## Low: Lowest price reached during time interval, in quote currency.
-## Close:	Closing price of the time interval, in the quote currency. 
-## Volume: Quantity of asset bought or sold, displayed in base currency.
+OHLCV is an aggregated form of market data standing for Open, High, Low, Close and Volume. OHLCV data includes 5 data points: the Open and Close represent the first and the last price level during a specified interval. High and Low represent the highest and lowest reached price during that interval. Volume is the total amount traded during that period. This data is most frequently represented in a candlestick chart, which allows traders to perform technical analysis on intraday values. We provide OHLCV data in granularities ranging from 1 second to 1 day. 
+
+### Timestamp:Epoch timestamp in milliseconds
+
+### Open: Opening price of the time interval in quote currency (For BTC/USD, the price would be USD).
+
+### High:	Highest price reached during time interval, in quote currency.
+
+### Low: Lowest price reached during time interval, in quote currency.
+
+### Close:	Closing price of the time interval, in the quote currency. 
+
+### Volume: Quantity of asset bought or sold, displayed in base currency.
  
 
 # 
